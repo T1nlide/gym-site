@@ -45,6 +45,7 @@ nav ul li a {
     background-image: url("/img/bg.jpg");
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
     text-align: left;
     padding: 100px 0;
